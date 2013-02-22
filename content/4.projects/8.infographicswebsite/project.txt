@@ -1,0 +1,7 @@
+title: Infographics.com
+-
+date: 2010
+-
+content: 
+Website design and development.
+<a href="http://www.infographics.com" target="_blank">Infographics.com</a> was designed under the art direction of Tommy McCall, while working at the infographics.com studio. <a href="http://www.infographics.com" target="_blank">Launch Project</a>

@@ -1,0 +1,8 @@
+title: Invincible Campaign Logo
+-
+date: 2012
+-
+content: 
+The Invincible Campaign was founded by a Sarcoma survivor to raise awareness about the struggles of adolescents and young adults with Sarcoma and other kinds of cancer.
+
+Currently working on building the website: <a href="www.invinciblecampaign.org" target="_blank">www.invinciblecampaign.org</a>.

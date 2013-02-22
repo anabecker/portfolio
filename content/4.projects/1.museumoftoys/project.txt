@@ -1,0 +1,6 @@
+title: Museum of Toys
+-
+date: 2009
+-
+content: 
+Project for Cooper Union's visual identities class.

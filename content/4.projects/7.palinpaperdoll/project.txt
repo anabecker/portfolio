@@ -1,0 +1,7 @@
+title: Palin Paper Dolls
+-
+date: 2010
+-
+content: 
+Design, Illustration, Development.
+<a href="http://www.palinpaperdoll.com" target="_blank">Sarah Palin Dress Up.</a> Featured in the Village Voice blog <a href="http://blogs.villagevoice.com/dailymusto/2011/07/sarah_palin_pap.php">La Daily Musto</a>. <a href="http://palinpaperdoll.com" target="_blank">Launch Project</a>

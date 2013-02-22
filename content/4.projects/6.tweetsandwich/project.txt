@@ -1,0 +1,8 @@
+title: Tweet Sandwich
+-
+date: 2010
+-
+content: 
+<a href="http://www.tweetsandwich.com" target="_blank">Tweet Sandwich</a> is a gigantic Dagwood of the most useless tweets on the internet. Tweet Sandwich compiles the most recent tweets about sandwiches, and scrapes each tweet for a main ingredient, which is represented by its background image. Tweet Sandwich is a data visualization of the stomachs of sandwich-tweeters around the world. For example, on the day after Thanksgiving, almost the entire tweet sandwich was comprised of turkey.
+Inspired by <a href="http://www.scanwiches.com" target="_blank">Scanwiches</a>. 
+<a href="http://www.tweetsandwich.com" target="_blank">Launch Project</a>

@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>About Ñame, Ana Becker's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Ana Becker</a> / Graphic Designer
+			</h1>
+			<em class="col three"><p><a href="m&#97;&#105;&#108;&#116;&#111;&#x3a;&#x61;&#x6e;&#x61;&#x62;d&#101;&#115;&#105;&#103;&#110;&#x73;&#x40;&#x67;&#x6d;&#x61;i&#108;&#46;&#99;&#111;&#109;">&#x61;&#x6e;&#x61;&#x62;d&#101;&#115;&#105;&#103;&#110;&#x73;&#x40;&#x67;&#x6d;&#x61;i&#108;&#46;&#99;&#111;&#109;</a></p>
+</em>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+ <li><em>Projects</em></li>
+    <li>
+  	<a href="./?/projects/project-1/">The Test Project 1</a>
+  </li>
+    <li>
+  	<a href="./?/projects/movie-project-2/">Movie Project 2</a>
+  </li>
+    <li>
+  	<a href="./?/projects/project-name-3/">The Test Project 3</a>
+  </li>
+    <li>
+  	<a href="./?/projects/youtube-project-4/">Youtube Project 4</a>
+  </li>
+    <li>
+  	<a href="./?/projects/vimeo-project-5/">The Vimeo Project 5</a>
+  </li>
+    <li>
+  	<a href="./?/projects/swf-project-6/">The SWF Project 6</a>
+  </li>
+    <li>
+  	<a href="./?/projects/mixed-media-project-7/">The Mixed Media Project 7</a>
+  </li>
+    <li>
+  	<a href="./?/projects/project-name-8/">The Test Project 8</a>
+  </li>
+    <li>
+  	<a href="./?/projects/project-name-9/">Project 9</a>
+  </li>
+    <li>
+  	<a href="./?/projects/Super Bowl XLVI Game Program for iPad/">The Test Project 10</a>
+  </li>
+   <li><em>About Ana</em></li>
+   <li><em>Contact details</em></li>
+   <li><em>Pages</em></li>
+    <li>
+  	<a href="./?/pagez/about/">About Ñame</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/contact-me/">Contact details</a>
+  </li>
+  
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<p class="date col one">&para;</p>
+				<div class="description col six">
+					<h2><a href="./">About Ñame</a></h2>
+					<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat. Vestibulum vulputate, erat a eleifend consequat, ipsum augue tincidunt sem, ac aliquet nibh magna nec nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum mattis tellus nec tortor blandit a tempor odio mollis.</p>
+
+<p>Nam ligula purus, fringilla ut accumsan non, sagittis id mi. Donec risus felis, hendrerit quis rhoncus egestas, laoreet non mi. Fusce in lorem non ipsum gravida lobortis a ut justo. Nam varius aliquet velit id viverra. Nunc bibendum mi ut ipsum blandit ultrices. Donec justo metus, varius id iaculis sed, ultricies lobortis eros. Curabitur sapien tortor, tempus sed varius sit amet, tempus a dui. Donec pharetra nibh et risus tincidunt molestie. Vivamus luctus posuere quam. Aliquam erat volutpat. Vivamus a neque at turpis hendrerit egestas quis vitae nisl.</p>
+
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Ana Becker 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script src="./public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 2c567e984c1ed9e688a5ac1763f678e3 -->
