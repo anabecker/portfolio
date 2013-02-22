@@ -1,0 +1,10 @@
+title: Voluntarily
+-
+date: November 2012 - present
+-
+content: 
+Concept & Creative Direction. Voluntarily is an app designed to help volunteer canvassers and relief agencies collect, communicate and visualize data about disaster-affected areas.
+Hack n' Jill Hacksgiving Pearson API Prize
+New York Tech Responds Hackathon 2nd place overall prize
+
+In Development
