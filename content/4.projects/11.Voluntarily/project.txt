@@ -1,6 +1,6 @@
-title: Voluntarily
+title: Voluntarily App
 -
-date: November 2012 - present
+date: Nov 2012 - present
 -
 content: 
 Concept & Creative Direction. Voluntarily is an app designed to help volunteer canvassers and relief agencies collect, communicate and visualize data about disaster-affected areas.
